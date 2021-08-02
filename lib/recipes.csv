@@ -1,2 +1,4 @@
-banana bread,Cook it hard
-Sam's best cake,It's not that good
+name,description,rating,prep_time,done
+,,,,true
+chocolate,dasda,5,25,true
+Chocolate Bar Hot Chocolate,I wanted to use up some full-size chocolate bars leftover from Halloween and decided to make hot chocolate out of one. The result was fabulous!,4.76,5 mins,false
